@@ -1,45 +1,26 @@
-### 🌊 About Me
+# Hi, I'm Zohré 👋
 
-👋 Hi there! I'm Zohre, a beginner coder exploring the exciting worlds of Python. With a good background in linguistics, I discovered my passion for Natural Language Processing (NLP) about a year ago and have been diving deeper into this fascinating field ever since.
+Master's student in **Natural Language Processing (TAL)** at Université Grenoble Alpes, with a background in linguistics and French translation. I'm looking for an **end-of-studies internship in NLP / AI**.
 
-### 📚 Background
+🌍 Persian (native) · French · English
 
-I hold a degree in linguistics, which has provided me with a unique perspective on language. Over the past year, I've been self-studying NLP, working on small projects, and continuously improving my skills.
+🔗 [Portfolio](https://zohre-shafiee.github.io/) · [CV](https://zohre-shafiee.github.io/cv.html) · [LinkedIn](https://www.linkedin.com/in/zohr%C3%A9-shafiee-1b58731a2/)
 
-### 🤖 Interests
+## Selected projects
 
-I'm deeply curious about robots and artificial intelligence, and how they can be integrated with human language. My goal is to combine my linguistic knowledge with technical skills to contribute to innovative AI projects or any other Internship/Apprenticeship project.
+| Project | What it is |
+|---|---|
+| [**ParlaCAP**](https://github.com/zohre-shafiee/Projet-python-ParlaCAP) | Classifying French parliamentary speeches by party with DistilCamemBERT / CamemBERT. Five experiments on cleaning, class imbalance and sequence length (best run: 56.69% accuracy, 48.29% macro-F1). Team of two. |
+| [**ASR-WER-Evaluation**](https://github.com/zohre-shafiee/ASR-WER-Evaluation) | Evaluating an ASR system against manual transcripts with Word Error Rate (JiWER). Public repo uses fictional data only, with unit tests and CI. |
+| [**gestion-des-dictees**](https://github.com/zohre-shafiee/gestion-des-dictees) | Web platform for French school dictations: Stanza-based error analysis, PHP/MySQL interface, OCR. Team project. |
+| [**phonorama**](https://github.com/zohre-shafiee/phonorama) | Web tool helping FLE teachers compare French phonological inventories with other languages. Five-person team project with an external partner. |
 
-### 🚀 Goals
+## Skills
 
-My current objective is to enhance my IT skills and become proficient in Python. I'm particularly interested in collaborating on open-source NLP projects and learning from the amazing developer community here on GitHub.
+- **Languages:** Python, JavaScript, PHP, SQL, HTML/CSS
+- **NLP:** text preprocessing, corpus analysis, supervised text classification, ASR evaluation (WER)
+- **Tools:** Pandas, NLTK, spaCy, Hugging Face Transformers, Stanza, JiWER, Jupyter, Git/GitHub, SQLite
 
-### 🎉 Fun Fact
+## Interests
 
-Fun fact about me: I can understand and speak three languages fluently! This multilingual ability often comes in handy when exploring different linguistic datasets in NLP; however, sometimes you wonder which language you are talking in!
-
-### 📩 Contact
-
-Feel free to reach out to me for collaboration or just to chat about AI, NLP, and anything tech-related.
-
-<hr>
-
-### Connect with me
-<div align="center">
-<a href="https://www.linkedin.com/in/zohr%C3%A9-shafiee-1b58731a2/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:zo.shafiee95@gmail.com">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
-</div>  
-
-<hr>
-
-### My Skills
-
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>
-</div>
+LLMs · RAG · applied AI · building linguistic tools
