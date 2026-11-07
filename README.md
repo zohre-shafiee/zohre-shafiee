@@ -10,6 +10,7 @@ Master's student in **Natural Language Processing (TAL)** at Université Grenobl
 
 | Project | What it is |
 |---|---|
+| [**epanet-assistant**](https://github.com/zohre-shafiee/epanet-assistant) | Personal project: LLM agent for EPANET users that chooses between RAG over the user manual (with page citations) and WNTR hydraulic simulations. Agent loop with tool calling, Gradio interface. |
 | [**ParlaCAP**](https://github.com/zohre-shafiee/Projet-python-ParlaCAP) | Classifying French parliamentary speeches by party with DistilCamemBERT / CamemBERT. Five experiments on cleaning, class imbalance and sequence length (best run: 56.69% accuracy, 48.29% macro-F1). Team of two. |
 | [**ASR-WER-Evaluation**](https://github.com/zohre-shafiee/ASR-WER-Evaluation) | Evaluating an ASR system against manual transcripts with Word Error Rate (JiWER). Public repo uses fictional data only, with unit tests and CI. |
 | [**gestion-des-dictees**](https://github.com/zohre-shafiee/gestion-des-dictees) | Web platform for French school dictations: Stanza-based error analysis, PHP/MySQL interface, OCR. Team project. |
@@ -19,7 +20,8 @@ Master's student in **Natural Language Processing (TAL)** at Université Grenobl
 
 - **Languages:** Python, JavaScript, PHP, SQL, HTML/CSS
 - **NLP:** text preprocessing, corpus analysis, supervised text classification, ASR evaluation (WER)
-- **Tools:** Pandas, NLTK, spaCy, Hugging Face Transformers, Stanza, JiWER, Jupyter, Git/GitHub, SQLite
+- **LLMs:** RAG, tool-calling agents, prompt engineering, OpenAI-compatible APIs
+- **Tools:** Pandas, NLTK, spaCy, Hugging Face Transformers, Stanza, JiWER, LangChain, ChromaDB, Gradio, WNTR, Jupyter, Git/GitHub, SQLite
 
 ## Interests
 
